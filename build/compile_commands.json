@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/shayan/Documents/Github/Precision-Guided-Drone-C/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/Cellar/opencv/4.7.0_7/include/opencv4 -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/PGDC.dir/main.cpp.o -c /Users/shayan/Documents/Github/Precision-Guided-Drone-C/main.cpp",
+  "file": "/Users/shayan/Documents/Github/Precision-Guided-Drone-C/main.cpp",
+  "output": "CMakeFiles/PGDC.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,3 @@
+/Users/shayan/Documents/Github/Precision-Guided-Drone-C/build/CMakeFiles/PGDC.dir
+/Users/shayan/Documents/Github/Precision-Guided-Drone-C/build/CMakeFiles/edit_cache.dir
+/Users/shayan/Documents/Github/Precision-Guided-Drone-C/build/CMakeFiles/rebuild_cache.dir

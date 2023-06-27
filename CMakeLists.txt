@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(PGDC)
+find_package(OpenCV REQUIRED)
+add_executable(PGDC main.cpp)
+target_link_libraries(PGDC ${OpenCV_LIBS})
